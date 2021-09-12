@@ -1,0 +1,30 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+body{
+	background-color: rgb(245, 227, 204);
+}
+h3{
+	font-size: 40px;
+	color:rgb(56, 31, 68);
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	text-decoration: solid;
+	text-decoration-line: underline;
+	text-decoration-color: rgb(132, 95, 153);
+}
+p {
+	font-size: 30px;
+}
